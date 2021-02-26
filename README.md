@@ -2,7 +2,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/dam_gc?color=1DA1F2&logo=Twitter&style=for-the-badge)
 
-## I'm a Computer Science student and a little bit of gamer
+## I'm a Computer Science student and a little bit of a gamer
 
 - 🌱 I’m currently mastering HTML and CSS
 - 👯 I’m looking forward to be part of the GitHub community by contributing to Open Source projects
@@ -30,7 +30,6 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-
 <br />
 
 [twitter]: https://twitter.com/dam_gc
