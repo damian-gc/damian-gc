@@ -20,10 +20,11 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />][]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />][github]
 
 <br />
 
+[github]:https://github.com/damian-gc
 [twitter]: https://twitter.com/dam_gc
 [instagram]: https://www.instagram.com/damian_.g/
 [linkedin]: https://www.linkedin.com/in/damian-garcia-c
