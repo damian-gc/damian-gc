@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently mastering HTML and CSS
 - 👯 I’m looking forward to be part of the GitHub community by contributing to Open Source projects
-- 🥅 2021 Goals: Become better at AI and Machine Learning
+- 🥅 2022 Goals: Become better at AI and Machine Learning
 - ⚡ Fun fact: I enjoy learning something new everyday!!
 
 
