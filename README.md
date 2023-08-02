@@ -4,9 +4,9 @@
 
 ## I'm a Computer Science Engineering student and a little bit of a gamer
 
-- 🌱 I’m currently mastering HTML and CSS
+- 🌱 I’m currently mastering Power BI and ML.
 - 👯 I’m looking forward to be part of the GitHub community by contributing to Open Source projects
-- 🥅 2022 Goals: Become better at AI and Machine Learning
+- 🥅 2023 Goals: Become better at AI and Machine Learning
 - ⚡ Fun fact: I enjoy learning something new everyday!!
 
 
