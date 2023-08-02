@@ -2,7 +2,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/dam_gc?color=1DA1F2&logo=Twitter&style=for-the-badge)
 
-## I'm a Computer Science Engineering student and a little bit of a gamer
+## I'm a Data Analyst looking to transition to a Data Engineer.
 
 - 🌱 I’m currently mastering Power BI and ML.
 - 👯 I’m looking forward to be part of the GitHub community by contributing to Open Source projects
