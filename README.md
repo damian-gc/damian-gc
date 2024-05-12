@@ -4,9 +4,9 @@
 
 ## I'm a Data Analyst looking to transition to a Data Engineer.
 
-- 🌱 I’m currently mastering Power BI and ML.
+- 🌱 I’m currently mastering Data Engineering.
 - 👯 I’m looking forward to be part of the GitHub community by contributing to Open Source projects
-- 🥅 2023 Goals: Become better at AI and Machine Learning
+- 🥅 2024 Goals: Become better at Data Engineering
 - ⚡ Fun fact: I enjoy learning something new everyday!!
 
 
