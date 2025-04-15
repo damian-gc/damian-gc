@@ -2,12 +2,12 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/dam_gc?color=1DA1F2&logo=Twitter&style=for-the-badge)
 
-## I'm a Data Analyst looking to transition to a Data Engineer.
+## I'm a Data Engineer (Gen AI).
 
-- 🌱 I’m currently mastering Data Engineering.
+- 🌱 I’m currently mastering AI Engineering.
 - 👯 I’m looking forward to be part of the GitHub community by contributing to Open Source projects
-- 🥅 2024 Goals: Become better at Data Engineering
-- ⚡ Fun fact: I enjoy learning something new everyday!!
+- 🥅 2025 Goals: Become better at building AI systems that empower people to do extraordinary things.
+- ⚡ Fun fact: I practice calisthenics!
 
 
 ### Find me on:
@@ -33,6 +33,4 @@
 <br />
 
 [github]:https://github.com/damian-gc
-[twitter]: https://twitter.com/dam_gc
-[instagram]: https://www.instagram.com/damian_.g/
 [linkedin]: https://www.linkedin.com/in/damian-garcia-c
