@@ -1,7 +1,5 @@
 ### Hola mundo, I'm Damián 👋
 
-![Twitter Follow](https://img.shields.io/twitter/follow/dam_gc?color=1DA1F2&logo=Twitter&style=for-the-badge)
-
 ## I'm a Data Engineer (Gen AI).
 
 - 🌱 I’m currently mastering AI Engineering.
