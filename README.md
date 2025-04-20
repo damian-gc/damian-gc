@@ -1,11 +1,11 @@
 ### Hola mundo, I'm Damián 👋
 
-## I'm a Data Engineer (Gen AI).
+## I'm a Python Developer with a passion for Data and Responsible AI.
 
-- 🌱 I’m currently mastering AI Engineering.
-- 👯 I’m looking forward to be part of the GitHub community by contributing to Open Source projects
-- 🥅 2025 Goals: Become better at building AI systems that empower people to do extraordinary things.
-- ⚡ Fun fact: I practice calisthenics!
+- 🌱 Currently diving deep into AI Engineering, honing skills to build transformative systems.
+- 🌐 Skilled in Azure Cloud solutions, leveraging its services for efficient deployments.
+- 🥅 2025 Goals: Master crafting responsible AI systems that empower individuals to achieve the extraordinary.
+- ⚡ Fun fact: I'm passionate about calisthenics - it's my way of building both body and mind!
 
 
 ### Find me on:
