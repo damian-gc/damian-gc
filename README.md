@@ -1,3 +1,4 @@
+![profile-banner](profile-banner.jpg)
 ### Hola mundo, I'm Damián 👋
 
 ## I'm a Python Developer with a passion for Data and Responsible AI.
